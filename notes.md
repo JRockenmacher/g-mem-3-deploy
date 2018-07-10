@@ -1,0 +1,2 @@
+- [ ] had issue when i didn\'t migrate:latest before I ran a seed; is there a way to reverse?
+    - [ ] could it be the env vars in the knexfile? Was pointing to the g-mem-2 db
