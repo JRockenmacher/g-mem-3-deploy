@@ -4,7 +4,7 @@ module.exports = {
 
   development: {
     client: 'postgresql',
-    connection: process.env.DATABASE_URL || 'postgres:///g-mem-3'
+    connection:'postgres:///g-mem-3'
   },  
 
   production: {
